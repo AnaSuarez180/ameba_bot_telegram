@@ -1,0 +1,65 @@
+{
+    "default_service": "tinyurl",
+    "services": {
+    "tinyurl": {
+        "name": "TinyURL",
+        "function": "short"
+    },
+    "bitly": {
+        "name": "Bit.ly",
+        "function": "short"
+    },
+    "isgd": {
+        "name": "Is.gd",
+        "function": "short"
+    },
+    "chilpit": {
+        "name": "Chilp.it",
+        "function": "short"
+    },
+    "clckru": {
+        "name": "Clck.ru",
+        "function": "short"
+    },
+    "cuttly": {
+        "name": "Cutt.ly",
+        "function": "short"
+    },
+    "dagd": {
+        "name": "Da.gd",
+        "function": "short"
+    },
+    "gitio": {
+        "name": "Git.io",
+        "function": "short"
+    },
+    "nullpointer": {
+        "name": "NullPointer",
+        "function": "short"
+    },
+    "osdb": {
+        "name": "Os.db",
+        "function": "short"
+    },
+    "owly": {
+        "name": "Ow.ly",
+        "function": "short"
+    },
+    "post": {
+        "name": "Po.st",
+        "function":"short" 
+    },
+    "qpsru": {
+        "name": "Qps.ru",
+        "function": "short"
+    },
+    "shortcm": {
+        "name": "Short.cm",
+        "function": "short" 
+    },
+    "tinycc": {
+        "name": "Tiny.cc",
+        "function": "short"
+    }
+    }
+}
